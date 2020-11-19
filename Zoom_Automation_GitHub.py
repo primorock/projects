@@ -23,9 +23,9 @@ def join_meeting(course):
 	pyautogui.click(autostart) 
 	driver.quit()
 
-while current_hour < "18":
+while current_hour < "18": #put your time window then use the function this is an example
 	if current_date == "1":
-		if current_hour == "8" and current_minute >="50":
+		if current_hour == "8" and current_minute >="50": 
 			join_meeting(meeting1)
 	else:
 		print('🎉🥳There is no class today!!🥳🎉')
