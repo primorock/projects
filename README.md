@@ -5,4 +5,4 @@ odd2.py tells you the same thing but 5 times in random intervals between 1-60 se
 odd.py and odd2.py are learned from the book Head First - Python (2nd Edition) by Paul Barry
 Downloads Organiser goes through a folder and sorts it(for example moves .docx files into the Documents folder)(in this instance it's being used on my Downloads folder.
 Zoom_Automation_GitHub.py is a script that automatically logs into Zoom meetings for you.
-hello.c is a hello world program in C. I know it's not impressive but it's just meant to be a time marker for when I first started C programming.
+hello.c is a hello world program in C. It's just meant to be a time marker for when I first started C programming.
